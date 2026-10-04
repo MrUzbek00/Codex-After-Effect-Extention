@@ -113,4 +113,4 @@ Use `npm.cmd` if PowerShell blocks `npm.ps1`. No `npm install` is required. The 
 
 ## Provenance and licensing
 
-Based on the user's existing local After Effects bridge. The original source README records a successful read-only check on After Effects 26.0x67 on 2026-10-03; that historical result is not a fresh verification of this packaged copy. No license declaration was present in the original source. The owner should choose a license before offering open-source reuse rights. Adobe and OpenAI retain their own product terms and trademarks.
+Based on the user's existing local After Effects bridge. The original source README records a successful read-only check on After Effects 26.0x67 on 2026-10-03; that historical result is not a fresh verification of this packaged copy. Released under the [MIT License](LICENSE). Adobe and OpenAI retain their own product terms and trademarks.

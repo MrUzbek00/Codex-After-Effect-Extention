@@ -5,7 +5,7 @@ $root = Split-Path -Parent $PSScriptRoot
 $dist = Join-Path $root 'dist'
 New-Item -ItemType Directory -Path $dist -Force | Out-Null
 $output = Join-Path $dist 'Codex-After-Effects-Connector-1.1.0-source.zip'
-$names = @('.gitignore', '.gitattributes', 'AGENTS.md', 'README.md', 'SECURITY.md', 'CHANGELOG.md',
+$names = @('.gitignore', '.gitattributes', 'LICENSE', 'AGENTS.md', 'README.md', 'SECURITY.md', 'CHANGELOG.md',
     'requirements.txt', 'package.json', 'package-lock.json', 'Setup.ps1', 'Start-Bridge.jsx', 'Stop-Bridge.jsx',
     'Invoke-AfterEffects.ps1', 'Test-Connection.ps1', 'Get-BridgeResult.ps1', 'project-info.jsx',
     'scripts/Package.ps1', 'scripts/Check-Syntax.ps1', 'scripts/check.cjs', 'scripts/request-wrapper.jsx',
