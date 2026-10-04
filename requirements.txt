@@ -1,0 +1,4 @@
+# No Python dependencies. Python is not required for installation or use.
+# Runtime: Windows PowerShell 5.1+ or PowerShell 7+, Adobe After Effects,
+# and a local Codex client with permission to run PowerShell commands.
+# Node.js 22+ is optional, for the development tests only.
